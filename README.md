@@ -1,2 +1,11 @@
-# Resiliency
-Resiliency using Polly
+# Resilency
+
+Resilency using Polly
+
+## Solution description
+
+Tested functionality:
+* WaitAndRetry
+* Timeout
+* Fallback
+* CircuitBreaker
